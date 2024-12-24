@@ -2,9 +2,9 @@
 
     "manifest_version": 2,
     "name": "Instagram in Sidebar",
-    "description": "Displays a ChatGPT sidebar.",
+    "description": "Displays an Instagram sidebar.",
     "version": "1.0",
-    "applications": {
+    "browser_specific_settings": {
         "gecko": {
             "strict_min_version": "73.0"
         }

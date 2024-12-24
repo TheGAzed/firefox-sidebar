@@ -1,8 +1,8 @@
 {
 
     "manifest_version": 2,
-    "name": "Twitter in Sidebar",
-    "description": "Displays a Twitter sidebar.",
+    "name": "YouTube Music in Sidebar",
+    "description": "Displays a YouTube Music sidebar.",
     "version": "1.0",
     "browser_specific_settings": {
         "gecko": {
@@ -22,7 +22,7 @@
         "default_icon": {
             "48": "icons/icon_48.svg"
         },
-        "default_title" : "Twitter",
+        "default_title" : "YouTube Music",
         "default_panel": "index.html"
     },
   

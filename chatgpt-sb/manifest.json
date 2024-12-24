@@ -4,7 +4,7 @@
     "name": "ChatGPT in Sidebar",
     "description": "Displays a ChatGPT sidebar.",
     "version": "1.0",
-    "applications": {
+    "browser_specific_settings": {
         "gecko": {
             "strict_min_version": "73.0"
         }
